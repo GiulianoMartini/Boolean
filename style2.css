@@ -1,0 +1,73 @@
+body {
+    display: inline-block;
+    background-image: url(sfondo.jpg);
+    background-repeat: no-repeat;
+    background-size: 1500px 1100px;
+}
+
+.corpo {
+    margin: 100px;
+    padding: 100px;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+#logo {
+    width: 400px;
+    color: lime;
+    margin-bottom: 5px;
+}
+
+header {
+    text-align: center;
+}
+
+#inizio {
+    color: lime;
+    margin-bottom: 5px;
+}
+
+#nav {
+    display: inline-block;
+    width: 750px;
+    padding: 20px;
+    text-align: center;
+    background-color: lime;
+}
+
+
+.Monopattino1,.Monopattino2,.Monopattino3 {
+    display: inline-block;
+    color: white;
+    margin-bottom: 5px;
+}
+
+.via {
+    color: white;
+    margin-bottom: 5px;
+}
+
+.barrasalmone {
+    width: 300px;
+    height: 25px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    background-color: lightsalmon
+    
+}
+
+.barraverde {
+    width: 600px;
+    height: 25px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    background-color: green
+}
+
+.barrarossa {
+    width: 150px;
+    height: 25px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    background-color: rgb(80%, 10%, 10%)
+}
